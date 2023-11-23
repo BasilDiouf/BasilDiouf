@@ -6,7 +6,7 @@ Je m'appelle Basil et je suis developpeur Front-end junior. J'ai suivi le DWWM c
 
 ## Les connaissances que j'ai aquises : 
 
-<img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/php.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/css-3.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/science.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/science.png">
+<img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/php.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/css-3.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/science.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/icons8-html-96.png">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasilDiouf&show_icons=true&theme=merko)
