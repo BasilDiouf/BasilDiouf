@@ -9,7 +9,7 @@ Je m'appelle Basil et je suis developpeur Front-end junior. J'ai suivi le DWWM c
 <img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/php.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/css-3.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/science.png">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanbeldent&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasilDiouf&show_icons=true&theme=merko)
 
 <p>
   <a href="https://www.linkedin.com/in/basil-diouf/"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"></a>
