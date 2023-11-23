@@ -18,7 +18,5 @@ Je m'appelle Basil et je suis developpeur Front-end junior. J'ai suivi le DWWM c
 <p>
   <a href="mailto:basil.diouf@gmail.com"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/gmail.png"></a>
 </p>
-<p>
-  <a><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/whatsapp.png"> : + 33 6 28 40 04 62</a>
-</p>
+
 
