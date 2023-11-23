@@ -2,9 +2,14 @@
 
 ### Et Bonjour Github ! 
 
-Je m'appelle Basil Diouf et je suis developpeur Front-end junior. J'ai suivi le DWWM chez O-clock spécialisation React et j'ai adoré apprendre à coder! Aujourd'hui je continue à me former en codant, codant et codant. Je suis en recherche active d'un job et préssé d'intégrer une nouvelle équipe! N'hésitez pas à me contacter ! A bientôt !
+Je m'appelle Basil et je suis developpeur Front-end junior. J'ai suivi le DWWM chez O-clock spécialisation React et j'ai adoré apprendre à coder! Aujourd'hui je continue à me former en codant, codant et codant. Je suis en recherche active d'un job et préssé d'intégrer une nouvelle équipe! N'hésitez pas à me contacter ! A bientôt !
+
+## Les connaissances que j'ai aquises : 
+
+<img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png">
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanbeldent&show_icons=true&theme=merko)
 
 <p>
   <a href="https://www.linkedin.com/in/basil-diouf/"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"></a>
