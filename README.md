@@ -15,10 +15,10 @@ Je m'appelle Basil et je suis developpeur Front-end junior. J'ai suivi le DWWM c
 ## Et pour me contacter :
 
 <p>
-  <a href="https://www.linkedin.com/in/basil-diouf/"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/basil-diouf/"><img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"></a>
 </p>
 <p>
-  <a href="mailto:basil.diouf@gmail.com"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/gmail.png"></a>
+  <a href="mailto:basil.diouf@gmail.com"><img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/gmail.png"></a>
 </p>
 
 
