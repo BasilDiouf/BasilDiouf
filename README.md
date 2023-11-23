@@ -12,6 +12,8 @@ Je m'appelle Basil et je suis developpeur Front-end junior. J'ai suivi le DWWM c
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasilDiouf&show_icons=true&theme=merko)
 
+## Et pour me contacter :
+
 <p>
   <a href="https://www.linkedin.com/in/basil-diouf/"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"></a>
 </p>
