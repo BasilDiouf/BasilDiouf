@@ -7,7 +7,7 @@ Je m'appelle Basil et je suis developpeur Front-end junior. J'ai suivi le DWWM c
 
 ## Les connaissances que j'ai aquises : 
 
-<img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/php.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/css-3.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/science.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/icons8-html-96.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/typescript.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/icons8-redux-an-open-source-javascript-library-for-managing-application-state-96.png">  <img height="32" width="32" src="https://cdn.simpleicons.org/next.js" />
+<img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/php.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/css-3.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/science.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/icons8-html-96.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/typescript.png">  <img height="40" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/icons8-redux-an-open-source-javascript-library-for-managing-application-state-96.png">  <img height="40" width="40" src="https://cdn.simpleicons.org/next.js/green" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasilDiouf&show_icons=true&theme=merko)
