@@ -5,5 +5,6 @@
 Je m'appelle Basil Diouf et je suis developpeur Front-end junior. J'ai suivi le DWWM chez O-clock spécialisation React et j'ai adoré apprendre à coder! Aujourd'hui je continue à me former en codant, codant et codant. Je suis en recherche active d'un job et préssé d'intégrer une nouvelle équipe! N'hésitez pas à me contacter ! A bientôt !
 
 <p>
-  <a href="https://www.linkedin.com/in/basil-diouf/" src=""></a>
+  <a href="https://www.linkedin.com/in/basil-diouf/" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/basil-diouf/" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"></a>
 </p>
