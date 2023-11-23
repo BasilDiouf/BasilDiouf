@@ -8,6 +8,6 @@ Je m'appelle Basil Diouf et je suis developpeur Front-end junior. J'ai suivi le 
   <a href="https://www.linkedin.com/in/basil-diouf/"><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/linkedin.png"></a>
 </p>
 <p>
-  <a><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/whatsapp.png">+ 33 6 28 40 04 62</a>
+  <a><img height="28" src="https://github.com/BasilDiouf/BasilDiouf/blob/main/whatsapp.png"> : + 33 6 28 40 04 62</a>
 </p>
 
